@@ -5,27 +5,13 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Apache
 %define		pnam	Filter
-Summary:	Apache::Filter Perl module
-Summary(cs):	Modul Apache::Filter pro Perl
-Summary(da):	Perlmodul Apache::Filter
-Summary(de):	Apache::Filter Perl Modul
-Summary(es):	Módulo de Perl Apache::Filter
-Summary(fr):	Module Perl Apache::Filter
-Summary(it):	Modulo di Perl Apache::Filter
-Summary(ja):	Apache::Filter Perl ¥â¥¸¥å¡¼¥ë
-Summary(ko):	Apache::Filter ÆŞ ¸ğÁÙ
-Summary(nb):	Perlmodul Apache::Filter
-Summary(pl):	Modu³ Perla Apache::Filter
-Summary(pt):	Módulo de Perl Apache::Filter
-Summary(pt_BR):	Módulo Perl Apache::Filter
-Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl Apache::Filter
-Summary(sv):	Apache::Filter Perlmodul
-Summary(uk):	íÏÄÕÌØ ÄÌÑ Perl Apache::Filter
-Summary(zh_CN):	Apache::Filter Perl Ä£¿é
+Summary:	Apache::Filter - alter the output of previous handlers
+Summary(pl):	Apache::Filter - obrabianie danych na wyj¶ciu poprzedniego modu³u
 Name:		perl-Apache-Filter
 Version:	1.022
 Release:	2
-License:	GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	f2aa0a85081c28d6d86a14773149ebc5
