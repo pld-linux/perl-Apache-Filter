@@ -14,7 +14,7 @@ Summary(fr):	Module Perl Apache::Filter
 Summary(it):	Modulo di Perl Apache::Filter
 Summary(ja):	Apache::Filter Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	Apache::Filter ÆÞ ¸ðÁÙ
-Summary(no):	Perlmodul Apache::Filter
+Summary(nb):	Perlmodul Apache::Filter
 Summary(pl):	Modu³ Perla Apache::Filter
 Summary(pt):	Módulo de Perl Apache::Filter
 Summary(pt_BR):	Módulo Perl Apache::Filter
