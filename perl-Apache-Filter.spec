@@ -23,7 +23,7 @@ Summary(sv):	Apache::Filter Perlmodul
 Summary(uk):	Модуль для Perl Apache::Filter
 Summary(zh_CN):	Apache::Filter Perl дё©И
 Name:		perl-Apache-Filter
-Version:	1.020
+Version:	1.021
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
