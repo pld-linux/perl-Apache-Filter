@@ -9,7 +9,7 @@ Summary:	Apache::Filter - alter the output of previous handlers
 Summary(pl):	Apache::Filter - obrabianie danych na wyj¶ciu poprzedniego modu³u
 Name:		perl-Apache-Filter
 Version:	1.022
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
