@@ -3,8 +3,8 @@
 %bcond_with	tests	# perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Apache
-%define	pnam	Filter
+%define		pdir	Apache
+%define		pnam	Filter
 Summary:	Apache::Filter - alter the output of previous handlers
 Summary(pl):	Apache::Filter - obrabianie danych na wyj¶ciu poprzedniego modu³u
 Name:		perl-Apache-Filter
