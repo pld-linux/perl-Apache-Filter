@@ -8,13 +8,13 @@
 Summary:	Apache::Filter - alter the output of previous handlers
 Summary(pl):	Apache::Filter - obrabianie danych na wyj¶ciu poprzedniego modu³u
 Name:		perl-Apache-Filter
-Version:	1.022
-Release:	3
+Version:	1.024
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f2aa0a85081c28d6d86a14773149ebc5
+# Source0-md5:	22fdc595d61fbfac8c25c9529fcf6551
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 #%%define		_noautoreq	'perl(Apache)'
 
 %description
-Apache::Filter Perl module alters the output of previous handlers in
-a chain of "filter-aware" Apache modules.
+Apache::Filter Perl module alters the output of previous handlers in a
+chain of "filter-aware" Apache modules.
 
 %description -l pl
 Modu³ Perla Apache::Filter obrabia dane na wyj¶ciu poprzedniego modu³u
