@@ -6,7 +6,7 @@
 %define		pdir	Apache
 %define		pnam	Filter
 Summary:	Apache::Filter - alter the output of previous handlers
-Summary(pl):	Apache::Filter - obrabianie danych na wyj∂ciu poprzedniego modu≥u
+Summary(pl.UTF-8):   Apache::Filter - obrabianie danych na wyj≈õciu poprzedniego modu≈Çu
 Name:		perl-Apache-Filter
 Version:	1.024
 Release:	1
@@ -26,9 +26,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Apache::Filter Perl module alters the output of previous handlers in a
 chain of "filter-aware" Apache modules.
 
-%description -l pl
-Modu≥ Perla Apache::Filter obrabia dane na wyj∂ciu poprzedniego modu≥u
-w ramach listy "filtrowalnych" modu≥Ûw z klasy Apache.
+%description -l pl.UTF-8
+Modu≈Ç Perla Apache::Filter obrabia dane na wyj≈õciu poprzedniego modu≈Çu
+w ramach listy "filtrowalnych" modu≈Ç√≥w z klasy Apache.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
