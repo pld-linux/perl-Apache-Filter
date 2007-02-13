@@ -6,7 +6,7 @@
 %define		pdir	Apache
 %define		pnam	Filter
 Summary:	Apache::Filter - alter the output of previous handlers
-Summary(pl.UTF-8):   Apache::Filter - obrabianie danych na wyjściu poprzedniego modułu
+Summary(pl.UTF-8):	Apache::Filter - obrabianie danych na wyjściu poprzedniego modułu
 Name:		perl-Apache-Filter
 Version:	1.024
 Release:	1
