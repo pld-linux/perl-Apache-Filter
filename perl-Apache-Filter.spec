@@ -4,7 +4,6 @@
 
 %define		pdir	Apache
 %define		pnam	Filter
-%include	/usr/lib/rpm/macros.perl
 Summary:	Apache::Filter - alter the output of previous handlers
 Summary(pl.UTF-8):	Apache::Filter - obrabianie danych na wyjściu poprzedniego modułu
 Name:		perl-Apache-Filter
